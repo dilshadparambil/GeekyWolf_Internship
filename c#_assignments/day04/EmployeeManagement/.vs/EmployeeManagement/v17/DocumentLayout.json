@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilshad.p\\source\\repos\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1593AB4-729F-45ED-B8CD-26F9BFE9B939}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dilshad.p\\source\\repos\\employeemanagement\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1593AB4-729F-45ED-B8CD-26F9BFE9B939}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1593AB4-729F-45ED-B8CD-26F9BFE9B939}|EmployeeManagement\\EmployeeManagement.csproj|c:\\users\\dilshad.p\\source\\repos\\employeemanagement\\employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1593AB4-729F-45ED-B8CD-26F9BFE9B939}|EmployeeManagement\\EmployeeManagement.csproj|solutionrelative:employeemanagement\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Employee.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagement\\Employee.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAswCwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:26:34.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagement\\Program.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\EmployeeManagement\\EmployeeManagement\\Program.cs*",
+              "RelativeToolTip": "EmployeeManagement\\Program.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-16T12:25:50.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilshad.p\\source\\repos\\UberRide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06111F-E4AB-4532-A996-89973FC28540}|UberRide\\UberRide.csproj|c:\\users\\dilshad.p\\source\\repos\\uberride\\uberride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06111F-E4AB-4532-A996-89973FC28540}|UberRide\\UberRide.csproj|solutionrelative:uberride\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF06111F-E4AB-4532-A996-89973FC28540}|UberRide\\UberRide.csproj|c:\\users\\dilshad.p\\source\\repos\\uberride\\uberride\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF06111F-E4AB-4532-A996-89973FC28540}|UberRide\\UberRide.csproj|solutionrelative:uberride\\ride.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ride.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\UberRide\\UberRide\\Ride.cs",
+              "RelativeDocumentMoniker": "UberRide\\Ride.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\UberRide\\UberRide\\Ride.cs",
+              "RelativeToolTip": "UberRide\\Ride.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:01:51.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dilshad.p\\source\\repos\\UberRide\\UberRide\\Program.cs",
+              "RelativeDocumentMoniker": "UberRide\\Program.cs",
+              "ToolTip": "C:\\Users\\dilshad.p\\source\\repos\\UberRide\\UberRide\\Program.cs",
+              "RelativeToolTip": "UberRide\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T06:01:28.214Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
