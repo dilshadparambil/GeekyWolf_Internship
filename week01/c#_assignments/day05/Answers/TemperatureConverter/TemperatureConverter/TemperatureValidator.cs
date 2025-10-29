@@ -10,11 +10,8 @@ namespace TemperatureConverter
     {
         public bool isValidTemperature(double celsius)
         {
-            if (celsius >= -273.15 && celsius <= 5500)
-            {
-                return true;
-            }
-            return false;
+            bool isValid = (celsius >= -273.15 && celsius <= 5500);
+            return isValid;
         }
     }
 }

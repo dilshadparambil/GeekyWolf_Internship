@@ -3,7 +3,7 @@ using System.Numerics;
 
 namespace MathUtilities
 {
-    public class utility
+    public class Utility
     {
         public bool IsEven(int num)
         {

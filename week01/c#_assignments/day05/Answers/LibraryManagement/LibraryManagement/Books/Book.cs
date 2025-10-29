@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace LibraryManagement.Books
 {
-    public class Books
+    public class Book
     {
-        public Books() 
+        public Book() 
         {
-            Console.WriteLine("Books object created");
+            Console.WriteLine("Book object created");
         }
     }
 }

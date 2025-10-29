@@ -1,9 +1,9 @@
 ﻿
 public class Employee // emp -> Employee. Class names should use PascalCase and be descriptive.
 {
-    public string name; // n -> Name. Public field renamed for clarity; PascalCase for public members.
-    public int age; // a -> Age. Descriptive, meaningful name replacing vague single letter.
-    public double salary; // s -> Salary. Clarifies what the number represents (employee’s pay).
+    public string Name; // n -> Name. Public field renamed for clarity; PascalCase for public members.
+    public int Age; // a -> Age. Descriptive, meaningful name replacing vague single letter.
+    public double Salary; // s -> Salary. Clarifies what the number represents (employee’s pay).
     public void CalculateSalary()
     // calc() -> CalculateSalary(). Method names use PascalCase and verbs; describes what the method does.
     {

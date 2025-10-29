@@ -4,7 +4,7 @@ using System.Numerics;
 int number;
 BigInteger fact;
 
-utility mathFunction = new utility();
+Utility mathFunction = new Utility();
 
 Console.Write("enter a number: ");
 int.TryParse(Console.ReadLine(), out number);

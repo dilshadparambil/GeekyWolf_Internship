@@ -2,7 +2,7 @@
 using LibraryManagement.Members;
 using LibraryManagement.Transactions;
 
-Books book1 = new Books();
+Book book1 = new Book();
 Journal journal1 = new Journal();
 Magazine magazine1= new Magazine(); 
 Librarian librarian1 = new Librarian();  
