@@ -1,0 +1,20 @@
+.styled-table {
+    border-collapse: collapse;
+}
+
+.styled-table th {
+    background-color: brown;
+    color: white;
+    text-align: left;
+}
+
+.styled-table td:nth-child(1) {
+    background-color: grey;
+    font-weight: bold;
+}
+
+.styled-table th,
+.styled-table td {
+    border: 1px solid black;
+    width: 130px;
+}

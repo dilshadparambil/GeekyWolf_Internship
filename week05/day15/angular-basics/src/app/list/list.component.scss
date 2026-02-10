@@ -1,0 +1,30 @@
+.styled-list{
+    list-style-type: none;
+    width: 150px;
+    text-align: center;
+}
+
+.styled-list li{
+    margin-bottom: 5px;
+    padding-top: 5px;
+    padding-bottom: 5PX;
+}
+
+.styled-list li:nth-child(1) {
+    background-color: aqua;
+}
+.styled-list li:nth-child(2) {
+    background-color: green;
+}
+.styled-list li:nth-child(3) {
+    background-color:beige;
+}
+.styled-list li:nth-child(4) {
+    background-color: bisque;
+}
+.styled-list li:nth-child(5) {
+    background-color: yellow;
+}
+.styled-list li:nth-child(6) {
+    background-color: yellowgreen;
+}

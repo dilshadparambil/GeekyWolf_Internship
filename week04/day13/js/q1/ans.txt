@@ -1,0 +1,6 @@
+Inside if: 30 //block let
+Inside function: 20 //function var
+Outside: 10 //global var
+
+scope of 'var' is function so the var num = 20 inside test() is separate from the global num.
+scope of let is block so the let num = 30 and exists only inside the if block.
