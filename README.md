@@ -2,7 +2,7 @@
 
 A comprehensive collection of **assignments, projects, and learning exercises** completed during my internship at **GeekyWolf**. This repository showcases weekly progress in full-stack development using **.NET, C#, SQL, Angular, TypeScript**, and web technologies.
 
-🎓 **Internship Duration:** [Add your dates]  
+🎓 **Internship Duration:** Oct 2025 - Feb 2026  
 🏢 **Company:** GeekyWolf  
 👨‍💻 **Intern:** Dilshad P
 
@@ -490,13 +490,13 @@ Feel free to:
 - *Add other relevant repositories*
 
 ---
-
+<!-- 
 ## 🎓 Certificate
 
 *[Add certificate image or link once received]*
 
 ---
-
+-->
 ## 📊 Weekly Contribution Graph
 
 ```
@@ -508,13 +508,14 @@ Week 5: ⭐⭐⭐⭐⭐ [Full-stack projects completed]
 ```
 
 ---
-
+<!-- 
 ## 🌟 Testimonial
 
 > *"Dilshad showed exceptional dedication and rapid learning throughout the internship. He successfully completed all assignments and delivered two impressive full-stack projects."*  
 > — **GeekyWolf Mentor** *(Add actual testimonial if available)*
 
 ---
+-->
 
 ## 🎉 Final Thoughts
 
